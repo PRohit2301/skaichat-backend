@@ -268,10 +268,6 @@ To prevent cold starts (Render sleeps after 15 min inactivity), use [UptimeRobot
 
 ---
 
-## License
-
-MIT License — feel free to use, modify, and distribute.
-
 ---
 
 *Skai Chat Backend · Built with ❤️ using Java + Spring Boot*
